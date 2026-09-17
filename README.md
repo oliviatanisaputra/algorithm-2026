@@ -7,12 +7,12 @@
 [BubbleSorting](homework/sketch_260910_bubble_sorting_infunction.pde)
 ![Alt homework11](homework/bubblesorting.png)
 
-[SelectionSorting](homework/sketch_260917_insertion_sorting_infunction.pde)
+[InsertionSorting](homework/sketch_260917_insertion_sorting_infunction.pde)
 ![Alt homework11](homework/insertionsorting.png)
 
-[SelectionSorting](homework/sketch_260917_merge_sorting_infunction.pde)
+[MergeSorting](homework/sketch_260917_merge_sorting_infunction.pde)
 ![Alt homework11](homework/mergesorting.png)
 
-[SelectionSorting](homework/sketch_260917_quick_sorting_infunction.pde)
+[QuickSorting](homework/sketch_260917_quick_sorting_infunction.pde)
 ![Alt homework11](homework/quicksorting.png)
 
