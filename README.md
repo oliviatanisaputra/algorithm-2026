@@ -16,3 +16,5 @@
 [QuickSorting](homework/sketch_260917_quick_sorting_infunction.pde)
 ![Alt homework11](homework/quicksorting.png)
 
+[HeapSorting](homework/sketch_260917_heap_sorting_infunction.pde)
+![Alt homework11](homework/heapsorting.png)
