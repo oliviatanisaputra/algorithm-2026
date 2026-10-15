@@ -19,6 +19,6 @@
 [HeapSorting](homework/sketch_260917_heap_sorting_infunction.pde)
 ![Alt homework11](homework/heapsorting.png)
 
-[SelectionSortingAnimation](homework/SelectionSortingAnimation/)
-![Alt homework11](homework/SelectionSortingAnimation.gif)
+[SelectionSortingAnimation](homework/SelectionSorting_Animation/)
+![Alt homework11](homework/SelectionSorting_Animation.gif)
 
