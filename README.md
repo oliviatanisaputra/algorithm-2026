@@ -20,5 +20,5 @@
 ![Alt homework11](homework/heapsorting.png)
 
 [SelectionSortingAnimation](homework/SelectionSortingAnimation/)
-![Alt ](homework/SelectionSortingAnimation.gif)
+![Alt homework11](homework/SelectionSortingAnimation.gif)
 
