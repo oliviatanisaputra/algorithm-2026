@@ -20,6 +20,7 @@
 ![Alt homework11](homework/heapsorting.png)
 
 
+### Homework2
 
 [Selection Sort Animation](homework/SelectionSort_Animation/)
 ![Alt homework11](homework/SelectionSort_Animation.gif)
@@ -42,6 +43,11 @@
 [Heap Sort Animation](homework/HeapSort_Animation/)
 ![Alt homework11](homework/HeapSort_Animation.gif)
 
+
+### Homework3
+
+[Binary Search Tree: Inorder, Preorder, Postorder Traversal](homework/BinarySearchTree/)
+![Alt homework11](homework/BinarySearchTree.gif)
 
 [Red-Black Binary Tree Animation](homework/Red-BlackBinaryTreeAnimation/)
 ![Alt homework11](homework/Red-BlackBinaryTreeAnimation.gif)
