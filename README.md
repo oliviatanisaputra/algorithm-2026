@@ -47,7 +47,7 @@
 ### Homework3
 
 [Binary Search Tree: Inorder, Preorder, Postorder Traversal](homework/BinarySearchTree/)
-![Alt homework](homework/BinarySearchTree.gif)
+![Alt homework](homework/BinarySearchTreeAnimation.gif)
 
-[Red-Black Binary Tree Animation](homework/Red-BlackBinaryTreeAnimation/)
+[Red-Black Binary Tree Animation](homework/Red-BlackBinaryTree/)
 ![Alt homework](homework/Red-BlackBinaryTreeAnimation.gif)
