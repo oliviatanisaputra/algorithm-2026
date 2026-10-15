@@ -19,6 +19,29 @@
 [HeapSorting](homework/sketch_260917_heap_sorting_infunction.pde)
 ![Alt homework11](homework/heapsorting.png)
 
-[SelectionSortAnimation](homework/SelectionSort_Animation/)
+
+
+[Selection Sort Animation](homework/SelectionSort_Animation/)
 ![Alt homework11](homework/SelectionSort_Animation.gif)
 
+[Bubble Sort Animation](homework/BubbleSort_Animation/)
+![Alt homework11](homework/BubbleSort_Animation.gif)
+
+[Insertion Sort Animation](homework/InsertionSort_Animation/)
+![Alt homework11](homework/InsertionSort_Animation.gif)
+
+[Merge Sort Animation](homework/MergeSort_Animation/)
+![Alt homework11](homework/MergeSort_Animation.gif)
+
+[Quick Sort Animation](homework/QuickSort_Animation/)
+![Alt homework11](homework/QuickSort_Animation.gif)
+
+[Radix Sort Animation](homework/RadixSort_Animation/)
+![Alt homework11](homework/RadixSort_Animation.gif)
+
+[Heap Sort Animation](homework/HeapSort_Animation/)
+![Alt homework11](homework/HeapSort_Animation.gif)
+
+
+[Red-Black Binary Tree Animation](homework/Red-BlackBinaryTreeAnimation/)
+![Alt homework11](homework/Red-BlackBinaryTreeAnimation.gif)
