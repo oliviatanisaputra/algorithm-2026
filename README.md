@@ -51,3 +51,9 @@
 
 [Red-Black Binary Tree](homework/Red_BlackBinaryTree/)
 ![Alt homework](homework/Red-BlackBinaryTreeAnimation.gif)
+
+
+### Homework4
+
+[Infix to Postfix Calculator Using Stack](homework/InfixToPostfixCalculator/)
+![Alt homework](homework/InfixToPostfixCalculator.png)
