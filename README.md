@@ -57,3 +57,9 @@
 
 [Infix to Postfix Calculator Using Stack](homework/InfixToPostfixCalculator/)
 ![Alt homework](homework/InfixToPostfixCalculator.png)
+
+
+### Homework5
+
+[Dynamic Programming - Pebble Placing Problem](homework/DynamicProgramming.pde)
+![Alt homework](homework/DynamicProgramming.png)
