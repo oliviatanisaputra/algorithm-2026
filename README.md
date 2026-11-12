@@ -63,3 +63,8 @@
 
 [Dynamic Programming - Pebble Placing Problem](homework/DynamicProgramming.pde)
 ![Alt homework](homework/DynamicProgramming.png)
+
+### Homework6
+
+[BFS and DFS for a graph](homework/BFS_DFS.pde)
+![Alt homework](homework/BFS_DFS.gif)
