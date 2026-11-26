@@ -68,3 +68,8 @@
 
 [BFS and DFS for a graph](homework/BFS_DFS.pde)
 ![Alt homework](homework/BFS_DFS.gif)
+
+### Homework7
+
+[Minimum Spanning Tree - Kruskal's Algorithm](homework/MST_Kruskal_Algorithm.pde)
+![Alt homework](homework/MST_Kruskal_Algorithm.gif)
